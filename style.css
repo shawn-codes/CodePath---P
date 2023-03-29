@@ -74,7 +74,9 @@ header {
 .line {
   width: 150px;
   height: 4px;
-  background: dodgerblue;
+  /* background: dodgerblue; */
+  /* Testing Colors */
+  background: lightcyan;
   margin: 10px auto;
   border-radius: 5px;
 }
@@ -87,7 +89,8 @@ header {
 
 .ctn {
   padding: 8px 15px;
-  background-color: dodgerblue;
+  /* background-color: dodgerblue; */
+  background-color: lightcoral;
   border-radius: 30px;
   color: #222;
 }
